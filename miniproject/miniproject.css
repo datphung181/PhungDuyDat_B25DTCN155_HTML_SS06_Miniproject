@@ -9,7 +9,7 @@ h1 {
     background-color: #fde68a;
     color: #78350f;
     text-align: center;
-    font-size: 30px;
+    font-size: 34px;
 }
 
 .menu {
@@ -57,4 +57,5 @@ ol li:hover {
     background-color: #78350f;
     color: yellow;
 }
+
 
